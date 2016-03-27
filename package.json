@@ -1,0 +1,7 @@
+{
+    "name": "b64pack",
+    "author": "Muhamed Krlić <muhamed@imasoft.ba>",
+    "version": "1.0.0",
+    "main": "./build/Release/b64pack",
+    "license": "GNU"
+}
